@@ -304,16 +304,7 @@ button {
 	background:#09F;
 	width:500px;
 	height:215px;
-	margin-left:18%;
-	margin-right:-15%;
-	float:left;
-}
-#socialtw {
-	display:inline-block;
-	background:#09F;
-	width:500px;
-	height:215px;
-	position:relative;
+        margin-right: 2%;
 }
 footer {
 	width:100%;
